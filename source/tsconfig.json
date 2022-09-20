@@ -1,0 +1,8 @@
+{
+    "references": [
+        {
+            "path": "./plugins/phasereditor2d.rive/src"
+        }
+    ],
+    "files": []
+}

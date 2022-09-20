@@ -1,0 +1,3 @@
+{
+    "extends": "../../PhaserEditor2D-v3/source/editor/tsconfig-base.json"
+}

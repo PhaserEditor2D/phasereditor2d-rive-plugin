@@ -1,0 +1,8 @@
+{
+    "id": "phasereditor2d.rive",
+    "styles": [],
+    "priority": 2,
+    "scripts": [
+        "_out/phasereditor2d.rive.js"
+    ]
+}
